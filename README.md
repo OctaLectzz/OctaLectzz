@@ -11,7 +11,7 @@
 <a href="https://t.me/lectzzz"><img src="https://img.shields.io/badge/Telegram-3672d1?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MirzaMaulana&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22MirzaMaulana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=OctaLectzz&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%OctaLectzz" /> </p>
 
  <p>I am a Software Engineering student of <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a>. I live in Sukoharjo, Central Java, Indonesia. I was born in Sukoharjo On >04 October 2006. My hobbies are <b>playing games</b> and <b>watching anime</b>, I started to enter the IT world in 2021. I want to be a game developer or web developer. The activity that I often do recently is Coding, I started liking coding in 2022.</p>
 
