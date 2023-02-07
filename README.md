@@ -29,7 +29,7 @@
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=Mirzeta-dev&show_icons=true&theme=dark&locale=en&hide_border=true" alt="MirzaMaulana" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=OctaLectzz&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Octavyan Putra" /></td>
     <td>
     🛠 &nbsp;Tech Stack
 
