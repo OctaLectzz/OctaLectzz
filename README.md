@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.facebook.com/octavyan.r"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
 <a href="https://www.instagram.com/octalectzz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="[octavyan4@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHCbJZmxsVhLjNPqHqhSndTFnDWVfKSHqFBSbHNhBvdrPszmLrqZLlkwCFhFSWBdbZlq)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHCbJZmxsVhLjNPqHqhSndTFnDWVfKSHqFBSbHNhBvdrPszmLrqZLlkwCFhFSWBdbZlq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a href="https://t.me/lectzzz"><img src="https://img.shields.io/badge/Telegram-3672d1?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
 </p>
 
