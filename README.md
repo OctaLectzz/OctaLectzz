@@ -1,6 +1,8 @@
 
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-<p align="center"> <h1 align="center"> Hi, I am Octavyan Putra Ramadhan <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Octavyan Putra Ramadhan 👋 I'm a 🚀 Fullstack web developer 🚀">
+</p>
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1> </p>
@@ -34,16 +36,19 @@
     🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=Php)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![PHP](https://img.shields.io/badge/-PHP-336791?style=flat&logo=Php)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 - Frameworks: &nbsp;
-  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react&logoColor=007ACC)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=skyblue)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-0055713?style=flat&logo=tailwindcss&logoColor=skyblue)
+  ![Laravel](https://img.shields.io/badge/-Laravel-c20000?style=flat&logo=Laravel)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 
 - Databases:  &nbsp;
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
