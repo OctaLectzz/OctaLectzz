@@ -28,12 +28,35 @@
 <table style="width:100%">
   <tr>
     <td>
-         <a href="http://www.github.com/OctaLectzz"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=OctaLectzz&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="OctaLectzz GitHub stats"/></a>
+         <a href="http://www.github.com/OctaLectzz"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=OctaLectzz&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="OctaLectzz GitHub stats"/></a>
     </td>
     <td>
-         <a href="http://www.github.com/OctaLectzz"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctaLectzz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+         <a href="http://www.github.com/OctaLectzz"><img alt="TYP Top Language" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctaLectzz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
      </td>
   </tr>
+         <tr>
+                  <td>
+                           🛠 &nbsp;Tech Stack
+
+- Basics: &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![PHP](https://img.shields.io/badge/-PHP-336791?style=flat&logo=Php)
+  ![Dart](https://img.shields.io/badge/-dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+- Frameworks: &nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-004fd6?style=flat&logo=tailwindcss&logoColor=skyblue)
+  ![Laravel](https://img.shields.io/badge/-Laravel-c20000?style=flat&logo=Laravel)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=Flutter&logoColor=white)
+  ![React](https://img.shields.io/badge/-react-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+  ![Quasar](https://img.shields.io/badge/-Quasar-16B7FB?style=flat&logo=quasar&logoColor=black)
+
+- Databases:  &nbsp;
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+                  </td>
+         </tr>
 </table>
 
 <div align="center">
